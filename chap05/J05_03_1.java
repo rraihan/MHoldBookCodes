@@ -22,7 +22,7 @@ public class J05_03_1 {
 	else if(Age>0 && Age<=12)
 	 System.out.println("You are a child.");
 	else if(Age>12 && Age<=19)
-	 System.out.println("You are a teen ager.");
+	 System.out.println("You are  still a teen ager.");
 	else if(Age>19 && Age<=40)
 	 System.out.println("You are young.");
 	else if(Age>40)
